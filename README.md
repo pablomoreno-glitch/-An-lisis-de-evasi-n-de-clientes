@@ -1,4 +1,4 @@
-# -An-lisis-de-evasi-n-de-clientes
+# -AnAlisis-de-evasion-de-clientes
 
 📋 Descripción del Proyecto
 Este proyecto forma parte del desafío "Churn de Clientes" de Telecom X, una empresa que enfrenta una alta tasa de cancelaciones de servicio. El objetivo es realizar un análisis exploratorio completo (EDA) para identificar los factores que llevan a la pérdida de clientes y generar insights estratégicos que apoyen al equipo de Data Science en la construcción de modelos predictivos.
